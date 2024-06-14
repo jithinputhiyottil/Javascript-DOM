@@ -1,2 +1,2 @@
 # Javascript-DOM
-This repository includes some of my works on Document Object Model(DOM) as I was learning it.
+This repository includes my work on Document Object Model(DOM) as I was learning it. A dice challenge.
